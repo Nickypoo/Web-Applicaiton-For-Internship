@@ -21,7 +21,7 @@ import net.rithms.riot.api.RiotApi;
 @Component
 public class SummonerModel {
 
-	final String key = "RGAPI-356d329a-41ca-4465-b222-20ab2f8b7e8c";
+	final String key = "Place key here";
 	
 	@Autowired
 	Platform platform;
